@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zaali Injgia and I'm a game developer, from Georgia.</h2>
+<h2 align="left">Hi 👋! My name is Zaali Injgia and I'm a computer science student, from Georgia.</h2>
 
 ###
 
