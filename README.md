@@ -10,7 +10,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning PHP, C/C++, React, JavaScript</p>
 
 ###
 
